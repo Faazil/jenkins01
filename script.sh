@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 echo " THis is the first ever script"
 
