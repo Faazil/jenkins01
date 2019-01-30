@@ -2,9 +2,9 @@
 
 echo " THis is the first ever script"
 
-NUM = $NUM1+$NUM2
+NUM = $($NUM1+$NUM2)
 
-echo $NUM
+echo "$NUM"
 
-The resulted number is $NUM
+echo "The resulted number is $NUM"
 
